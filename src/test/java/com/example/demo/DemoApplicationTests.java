@@ -8,7 +8,7 @@ class DemoApplicationTests {
 
 	@Test
 	void contextLoads() {
-		System.out.println("Maven Demo Test Success :)")
+		System.out.println("Maven Demo Test Success :)");
 	}
 
 }
